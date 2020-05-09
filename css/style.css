@@ -1,0 +1,31 @@
+.topNav {
+    display: inline-block;
+    padding: center;
+}
+
+.containter {
+    display: flex;
+}
+
+.left {
+    display: inline-block;
+    background-color: lightgrey;
+}
+
+.separator {
+    width: 750px;
+}
+
+.left {
+    float: left;
+    width: 29%;
+    padding-right: 15px;
+    background-color: limegreen;
+}
+
+.right {
+    float: right;
+    width: 70%;
+    padding-left: 15px;
+    background-color: magenta;
+}
